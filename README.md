@@ -1,1 +1,2 @@
-# Pure_C_Projects
+# Pure_C_Projects/n
+REPO CONTAINS DIFFRENT PR0JECTS IN C LANGUAGE 
